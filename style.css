@@ -1,5 +1,5 @@
 body {
-  background-image: url('C:\Users\Philimone Kasane\Desktop\basotho cultuer\photo\kasane.jpg');
+  background-image: url('photo/kasane.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -249,3 +249,4 @@ input:hover {
   .social-links img:hover {
     transform: scale(1.1);
   }
+
