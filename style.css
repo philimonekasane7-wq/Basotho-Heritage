@@ -15,7 +15,7 @@ body {
 p {
   font-family: cursive;
   font-size: 18px;
-  color: #fff;
+  color: #000;
 }
 
 nav ul,
@@ -249,6 +249,7 @@ input:hover {
   .social-links img:hover {
     transform: scale(1.1);
   }
+
 
 
 
