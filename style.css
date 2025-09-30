@@ -16,9 +16,7 @@ p {
   font-family: cursive;
   font-size: 18px;
   color: #000;
-  border-color: (#c98787);
-   border: 3px solid black;
-  border-radius: 10px;
+ 
 }
 
 nav ul,
@@ -252,6 +250,7 @@ input:hover {
   .social-links img:hover {
     transform: scale(1.1);
   }
+
 
 
 
